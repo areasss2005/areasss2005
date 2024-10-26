@@ -1,6 +1,6 @@
 - 👋 Hi, I’m aarya 
 - 👀 I’m interested in creating and developing peojects based on Artificial Intelligence and Machine learning 
-- 🌱 I’m currently doing BTECH in Computer science and emgineering and minoring in Artificial Intelligence and Machine Learning 
+- 🌱 I’m currently doing BTECH in Computer science and engineering and minoring in Artificial Intelligence and Machine Learning 
   
 - 📫 How to reach me --@gmail.com
 
